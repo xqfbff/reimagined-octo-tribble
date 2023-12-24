@@ -113,3 +113,4 @@ Tentatively, **has.js** is available under the Academic Free License, New BSD Li
      + ideally something that will use the list of tests, provide a clean interface to selecting tests needed and to download a single has.js file with tests embedded.
      + keeping in mind to remove additional closures and provide (only needed) `var CONTS = ""` style helpers in a single wrapping function.
 567a6012-44b3-4f82-bf0e-6e7148178405
+2ae0e1bd-1c80-4093-ae64-cbce730b6f26
