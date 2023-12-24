@@ -114,3 +114,4 @@ Tentatively, **has.js** is available under the Academic Free License, New BSD Li
      + keeping in mind to remove additional closures and provide (only needed) `var CONTS = ""` style helpers in a single wrapping function.
 567a6012-44b3-4f82-bf0e-6e7148178405
 2ae0e1bd-1c80-4093-ae64-cbce730b6f26
+385c386e-528f-49ba-be4d-af547972afc1
